@@ -22,3 +22,7 @@ I love the movie Inception. The story, the visuals, and the concept of dreams wi
 # What Motivates Me
 
 I’m motivated by solving problems that help real people. Knowing my work can make someone’s life easier is rewarding.
+
+# Career Goals
+
+I aim to work as a full-stack developer and eventually lead my own tech startup.
