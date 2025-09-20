@@ -26,3 +26,7 @@ I’m motivated by solving problems that help real people. Knowing my work can m
 # Career Goals
 
 I aim to work as a full-stack developer and eventually lead my own tech startup.
+
+# Coding Struggles
+
+Sometimes I get stuck for hours on bugs, but I’m learning to take breaks and ask for help sooner.
