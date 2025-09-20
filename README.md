@@ -14,3 +14,7 @@ is.
 # Academic Journey
 
 My academic experience so far has taught me discipline, problem solving, and how to learn from failure.
+
+# Favorite Movie
+
+I love the movie Inception. The story, the visuals, and the concept of dreams within dreams blew my mind.
