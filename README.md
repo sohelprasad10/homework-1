@@ -34,3 +34,7 @@ Sometimes I get stuck for hours on bugs, but I’m learning to take breaks and a
 # Favorite Tech Tool
 
 I really like using ubuntu Code — it’s lightweight, powerful, and has amazing extensions.
+
+# Dream Project
+
+I'd love to build an AI-powered app that helps people manage their mental health.
