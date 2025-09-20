@@ -18,3 +18,7 @@ My academic experience so far has taught me discipline, problem solving, and how
 # Favorite Movie
 
 I love the movie Inception. The story, the visuals, and the concept of dreams within dreams blew my mind.
+
+# What Motivates Me
+
+I’m motivated by solving problems that help real people. Knowing my work can make someone’s life easier is rewarding.
