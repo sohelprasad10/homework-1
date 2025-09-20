@@ -30,3 +30,7 @@ I aim to work as a full-stack developer and eventually lead my own tech startup.
 # Coding Struggles
 
 Sometimes I get stuck for hours on bugs, but I’m learning to take breaks and ask for help sooner.
+
+# Favorite Tech Tool
+
+I really like using ubuntu Code — it’s lightweight, powerful, and has amazing extensions.
